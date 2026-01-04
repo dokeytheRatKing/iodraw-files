@@ -70,6 +70,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vOpqmxrA3SKp6xhgCzlK-17" value="自己的流程" parent="0" />
+        <mxCell id="vOpqmxrA3SKp6xhgCzlK-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vOpqmxrA3SKp6xhgCzlK-17">
+          <mxGeometry x="630" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
