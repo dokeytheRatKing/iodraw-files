@@ -37,6 +37,9 @@
         <mxCell id="vOpqmxrA3SKp6xhgCzlK-10" value="2d batch photos" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="30" y="170" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vOpqmxrA3SKp6xhgCzlK-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;opacity=30;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-5" value="Lane 4" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1" collapsed="1">
           <mxGeometry x="480" y="20" width="40" height="730" as="geometry">
             <mxRectangle x="480" y="20" width="250" height="730" as="alternateBounds" />
@@ -68,9 +71,6 @@
         </mxCell>
         <mxCell id="vOpqmxrA3SKp6xhgCzlK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-11" target="vOpqmxrA3SKp6xhgCzlK-6">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vOpqmxrA3SKp6xhgCzlK-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
