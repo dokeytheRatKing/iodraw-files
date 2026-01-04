@@ -53,7 +53,7 @@
           <mxGeometry x="590" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-48" value="matching" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
