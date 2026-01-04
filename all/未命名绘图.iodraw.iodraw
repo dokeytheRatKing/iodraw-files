@@ -58,7 +58,7 @@
         <mxCell id="vOpqmxrA3SKp6xhgCzlK-28" value="measure" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vOpqmxrA3SKp6xhgCzlK-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-4">
+        <mxCell id="vOpqmxrA3SKp6xhgCzlK-30" value="compute&lt;br&gt;similarity matrix" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="400" y="65" width="120" height="185" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="Lane 4" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
