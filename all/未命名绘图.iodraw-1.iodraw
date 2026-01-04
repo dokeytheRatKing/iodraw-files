@@ -52,8 +52,8 @@
         <mxCell id="zVbibPpCoEy4X9bv5p9j-44" value="similarity matrix" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-48" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="zVbibPpCoEy4X9bv5p9j-48" value="matching" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
