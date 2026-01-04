@@ -127,7 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-83" value="recommand&amp;nbsp;&lt;div&gt;matching&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-89" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="1180" width="120" height="60" as="geometry" />
