@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zVbibPpCoEy4X9bv5p9j-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="400" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-2" target="zVbibPpCoEy4X9bv5p9j-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -48,9 +51,6 @@
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-44" value="similarity matrix" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="380" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="280" width="400" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
