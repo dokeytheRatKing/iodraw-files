@@ -46,11 +46,20 @@
         <mxCell id="vOpqmxrA3SKp6xhgCzlK-10" value="2d batch photos" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="30" y="170" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vOpqmxrA3SKp6xhgCzlK-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-4" source="vOpqmxrA3SKp6xhgCzlK-26" target="vOpqmxrA3SKp6xhgCzlK-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vOpqmxrA3SKp6xhgCzlK-26" value="measure" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="200" y="65" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vOpqmxrA3SKp6xhgCzlK-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-4" source="vOpqmxrA3SKp6xhgCzlK-28" target="vOpqmxrA3SKp6xhgCzlK-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vOpqmxrA3SKp6xhgCzlK-28" value="measure" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOpqmxrA3SKp6xhgCzlK-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="400" y="65" width="120" height="185" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="Lane 4" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="880" y="20" width="250" height="730" as="geometry">
