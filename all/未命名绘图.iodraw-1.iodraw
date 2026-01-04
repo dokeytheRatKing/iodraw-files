@@ -157,8 +157,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-112" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="200" y="591" width="859" height="859" as="geometry" />
+        <mxCell id="zVbibPpCoEy4X9bv5p9j-113" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
