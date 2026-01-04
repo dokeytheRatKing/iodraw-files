@@ -102,24 +102,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vOpqmxrA3SKp6xhgCzlK-17" value="自己的流程" parent="0" />
-        <mxCell id="vOpqmxrA3SKp6xhgCzlK-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="vOpqmxrA3SKp6xhgCzlK-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="350" as="sourcePoint" />
-            <mxPoint x="520" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vOpqmxrA3SKp6xhgCzlK-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="vOpqmxrA3SKp6xhgCzlK-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="350" as="sourcePoint" />
-            <mxPoint x="520" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vOpqmxrA3SKp6xhgCzlK-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="vOpqmxrA3SKp6xhgCzlK-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="350" as="sourcePoint" />
-            <mxPoint x="520" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
