@@ -14,7 +14,7 @@
           <mxGeometry x="15" y="100" width="170" height="630" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="200" y="280" width="570" height="270" as="geometry" />
+          <mxGeometry x="200" y="210" width="570" height="340" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-2" target="zVbibPpCoEy4X9bv5p9j-32">
           <mxGeometry relative="1" as="geometry" />
@@ -28,8 +28,11 @@
         <mxCell id="zVbibPpCoEy4X9bv5p9j-31" value="2d find photos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zVbibPpCoEy4X9bv5p9j-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-32" target="zVbibPpCoEy4X9bv5p9j-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-32" value="3d reconstruction" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-35" target="zVbibPpCoEy4X9bv5p9j-37">
           <mxGeometry relative="1" as="geometry" />
