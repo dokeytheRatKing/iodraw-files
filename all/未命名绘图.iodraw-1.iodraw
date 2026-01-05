@@ -71,7 +71,7 @@
           <mxGeometry x="570" y="681" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-63" value="cache" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="890" width="120" height="80" as="geometry" />
+          <mxGeometry x="1050" y="890" width="110" height="340" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-64" target="zVbibPpCoEy4X9bv5p9j-83">
           <mxGeometry relative="1" as="geometry">
