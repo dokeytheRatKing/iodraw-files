@@ -256,14 +256,8 @@
             <mxPoint x="520" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-209" target="zVbibPpCoEy4X9bv5p9j-210">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="465" y="1370" />
-              <mxPoint x="465" y="1330" />
-              <mxPoint x="570" y="1330" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="zVbibPpCoEy4X9bv5p9j-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-209" target="zVbibPpCoEy4X9bv5p9j-210">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-209" value="compute missing&lt;br&gt;similarity score" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="1340" width="120" height="60" as="geometry" />
