@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="17Ds0JAgGpcM0eFmiwu7">
-    <mxGraphModel dx="1216" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1547" dy="1209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,14 +177,8 @@
         <mxCell id="zVbibPpCoEy4X9bv5p9j-159" value="check &amp;amp; update&lt;div&gt;cache&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-160" target="zVbibPpCoEy4X9bv5p9j-114">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="569.9999999999998" y="1390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="1460" />
-              <mxPoint x="490" y="1460" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="zVbibPpCoEy4X9bv5p9j-185" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-160" target="zVbibPpCoEy4X9bv5p9j-184">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-160" value="complete?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="1220" width="80" height="80" as="geometry" />
@@ -236,6 +230,9 @@
             <mxPoint x="310" y="410" as="sourcePoint" />
             <mxPoint x="360" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zVbibPpCoEy4X9bv5p9j-184" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1490" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
