@@ -86,13 +86,7 @@
           <mxGeometry x="310" y="660" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-77" value="load finds &amp;amp; models" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="736" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-77" target="zVbibPpCoEy4X9bv5p9j-59">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="640" as="sourcePoint" />
-            <mxPoint x="530" y="590" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="440" y="736" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-119" target="zVbibPpCoEy4X9bv5p9j-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -113,7 +107,7 @@
           <mxGeometry x="300" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-98" value="complete?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="990" width="80" height="80" as="geometry" />
+          <mxGeometry x="320" y="1220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-109" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1.005;exitY=0.924;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-46" target="zVbibPpCoEy4X9bv5p9j-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
