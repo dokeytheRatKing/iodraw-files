@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-64" value="complete?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="791" width="80" height="80" as="geometry" />
+          <mxGeometry x="320" y="970" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.972;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-72" target="zVbibPpCoEy4X9bv5p9j-119">
           <mxGeometry relative="1" as="geometry">
@@ -110,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-95" value="check cache" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-98" value="complete?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="990" width="80" height="80" as="geometry" />
