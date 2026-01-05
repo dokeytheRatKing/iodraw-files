@@ -37,14 +37,8 @@
         <mxCell id="zVbibPpCoEy4X9bv5p9j-35" value="3d models&lt;br&gt;(unsorted)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-37" target="zVbibPpCoEy4X9bv5p9j-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-37" value="measure" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-39" target="zVbibPpCoEy4X9bv5p9j-41">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-39" value="measure" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="480" width="120" height="60" as="geometry" />
@@ -142,18 +136,8 @@
             <mxPoint x="670" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-146" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-37" target="zVbibPpCoEy4X9bv5p9j-140">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="540" as="sourcePoint" />
-            <mxPoint x="620" y="490" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="430" y="380" />
-              <mxPoint x="430" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-147" value="=" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="400" width="50" height="100" as="geometry" />
+          <mxGeometry x="420" y="380" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
