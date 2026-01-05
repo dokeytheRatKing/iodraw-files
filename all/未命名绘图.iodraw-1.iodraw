@@ -77,6 +77,9 @@
         <mxCell id="zVbibPpCoEy4X9bv5p9j-72" value="specify context" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="660" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zVbibPpCoEy4X9bv5p9j-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-77" target="zVbibPpCoEy4X9bv5p9j-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-77" value="load finds &amp;amp; models" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="736" width="120" height="60" as="geometry" />
         </mxCell>
@@ -182,6 +185,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="460" as="sourcePoint" />
             <mxPoint x="810" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVbibPpCoEy4X9bv5p9j-167" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="830" as="sourcePoint" />
+            <mxPoint x="570" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
