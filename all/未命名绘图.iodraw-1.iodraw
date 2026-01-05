@@ -23,18 +23,18 @@
           <mxGeometry x="253" y="1080" width="410" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-66" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1206896551724138;" vertex="1" parent="1">
-          <mxGeometry x="15" y="186" width="170" height="530" as="geometry" />
+          <mxGeometry x="15" y="221" width="170" height="419" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="215" y="253" width="570" height="320" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="101.99999999999977" y="319" as="targetPoint" />
+            <mxPoint x="101.99999999999977" y="354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-2" value="2d batch photos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="224" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="259" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-31" target="zVbibPpCoEy4X9bv5p9j-39">
           <mxGeometry relative="1" as="geometry" />
@@ -46,10 +46,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-32" value="3d reconstruction" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="306" width="124" height="62" as="geometry" />
+          <mxGeometry x="40" y="341" width="124" height="62" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-35" value="3d models&lt;br&gt;(unsorted)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="404" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="439" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-37" value="measure" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="373" width="120" height="60" as="geometry" />
