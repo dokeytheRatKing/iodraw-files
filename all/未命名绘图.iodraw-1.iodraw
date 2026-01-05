@@ -55,12 +55,6 @@
         <mxCell id="zVbibPpCoEy4X9bv5p9j-41" value="compare&lt;br&gt;similarity" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-44" target="zVbibPpCoEy4X9bv5p9j-59">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="460" as="sourcePoint" />
-            <mxPoint x="650" y="610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-59" target="zVbibPpCoEy4X9bv5p9j-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -162,7 +156,7 @@
           <mxGeometry x="40" y="669" width="120" height="194" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-44" value="similarity matrix" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="681" width="120" height="80" as="geometry" />
+          <mxGeometry x="1181" y="890" width="120" height="265" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-132" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zVbibPpCoEy4X9bv5p9j-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
