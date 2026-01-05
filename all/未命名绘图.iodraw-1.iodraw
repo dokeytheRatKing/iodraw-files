@@ -104,9 +104,6 @@
         <mxCell id="zVbibPpCoEy4X9bv5p9j-95" value="check &amp;amp; update&lt;div&gt;cache&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-208" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-98" target="zVbibPpCoEy4X9bv5p9j-205">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-98" value="complete?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="1220" width="80" height="80" as="geometry" />
         </mxCell>
