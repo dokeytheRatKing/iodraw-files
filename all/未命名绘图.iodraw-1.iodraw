@@ -154,7 +154,7 @@
         <mxCell id="zVbibPpCoEy4X9bv5p9j-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-154" target="zVbibPpCoEy4X9bv5p9j-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zVbibPpCoEy4X9bv5p9j-154" value="load similarity score" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zVbibPpCoEy4X9bv5p9j-154" value="load calibration info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="871" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zVbibPpCoEy4X9bv5p9j-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVbibPpCoEy4X9bv5p9j-157" target="zVbibPpCoEy4X9bv5p9j-159">
